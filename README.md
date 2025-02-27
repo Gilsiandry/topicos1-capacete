@@ -6,7 +6,6 @@ Controller = Controlas as entradas e saidas, passando a responsabilidade das reg
 Um controller também pode validar retornos de erro, dependendo do nível ou complexidade.
 
 ------
-# CONFIGURACAO DO PROJETO
 ------
 
 # code-with-quarkus
